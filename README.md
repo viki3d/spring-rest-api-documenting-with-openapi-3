@@ -12,10 +12,10 @@ An OpenAPI definition can then be used by documentation generation tools to disp
 
 ## This demo: spring-rest-api-documenting-with-openapi-3
 
-**http://localhost:8080/v3/api-docs**  
+OpenApi 3 (json) &rarr; **http://localhost:8080/v3/api-docs**  
 ![spring-rest-api-documenting-with-openapi-3-2.png](spring-rest-api-documenting-with-openapi-3-2.png?id=1)
 
-**http://localhost:8080/swagger-ui.html**  
+Swagger-UI (html interface) &rarr; **http://localhost:8080/swagger-ui.html**  
 ![spring-rest-api-documenting-with-openapi-3-3.png](spring-rest-api-documenting-with-openapi-3-3.png?id=1)
 
 [See all Swagger properties here](https://springdoc.org/#swagger-ui-properties).
