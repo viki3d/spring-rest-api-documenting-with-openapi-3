@@ -16,6 +16,7 @@ We use this approach mainly when we have the code already written. In this case 
 This is the recommended approach. First we design the API in YAML(JSON) and then generate the code stubs and continue code implementation.  
 >  _yaml &rarr; code(stubs) & UI(html)_  
 
+SwaggerUI can generate the UI(html) either from _YAML_ or _CODE_:  
 ![spring-rest-api-documenting-with-openapi-3-4.png](spring-rest-api-documenting-with-openapi-3-4.png?id=1)
 
 ## This demo: spring-rest-api-documenting-with-openapi-3: _Code First_  
