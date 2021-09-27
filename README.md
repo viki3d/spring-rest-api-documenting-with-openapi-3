@@ -14,7 +14,7 @@ We use this approach mainly when we have the code already written. In this case 
 >  _code &rarr; json(yaml) & UI(html)_  
 * **Design First**  
 This is the recommended approach. First we design the API in YAML(JSON) and then generate the code stubs and continue code implementation.  
->  _yaml &rarr; code stubs_  
+>  _yaml &rarr; code(stubs) & UI(html)_  
 
 ![spring-rest-api-documenting-with-openapi-3-4.png](spring-rest-api-documenting-with-openapi-3-4.png?id=1)
 
