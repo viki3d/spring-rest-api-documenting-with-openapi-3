@@ -32,7 +32,7 @@ Swagger-UI (html interface) &rarr; **http://localhost:8080/swagger-ui.html**
 ## Designing API approaches
 * **Code First**  
 We use this approach mainly when we have the code already written. In this case we generate the API from the existing code.  
->  _code &rarr; json & UI(html)_  
+>  _code &rarr; json(yaml) & UI(html)_  
 * **Design First**  
 This is the recommended approach. First we design the API in YAML(JSON) and then generate the code stubs and continue code implementation.  
 >  _yaml &rarr; code stubs_  
