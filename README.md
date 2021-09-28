@@ -23,6 +23,8 @@ This is the recommended approach. First we design the API in YAML(JSON) and then
 
 ## This demo: spring-rest-api-documenting-with-openapi-3: _Code First_  
 
+![spring-rest-api-documenting-with-openapi-3-4.png](spring-rest-api-documenting-with-openapi-3-4.png?id=1)
+
 ![spring-rest-api-documenting-with-openapi-3-1.png](spring-rest-api-documenting-with-openapi-3-1.png?id=1)
 
 OpenApi 3 (json) &rarr; **http://localhost:8080/v3/api-docs**  
