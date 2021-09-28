@@ -8,6 +8,11 @@ The OpenAPI Specification (OAS) defines a standard, language-agnostic interface 
 
 An OpenAPI definition can then be used by documentation generation tools to <u>display the API</u>, <u>code generation</u> tools to generate servers and clients in various programming languages, <u>testing</u> tools, and many other use cases.  
 
+## Similar Tools
+* GraphQL
+* JsonAPI
+* RAML
+
 ## Designing API possible approaches
 * **Code First**  
 We use this approach mainly when we have the code already written. In this case we generate the API from the existing code.  
@@ -34,10 +39,4 @@ Swagger-UI (html interface) &rarr; **http://localhost:8080/swagger-ui.html**
 >  
 >  \# To disable the swagger-ui endpoint (/swagger-ui.html by default).  
 >  springdoc.swagger-ui.enabled=true
-
-## Similar Tools
-* GraphQL
-* JsonAPI
-* RAML
-
 
