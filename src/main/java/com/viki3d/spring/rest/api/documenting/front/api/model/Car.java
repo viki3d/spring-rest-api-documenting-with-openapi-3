@@ -6,7 +6,7 @@ import javax.validation.constraints.Size;
 /**
  * Representing car instances.
  *
- * @author User
+ * @author Victor Kirov
  */
 public class Car {
 
